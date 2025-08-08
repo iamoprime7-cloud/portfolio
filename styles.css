@@ -217,7 +217,7 @@ footer {
 .dark .nav-contact { background: #383879; color: #fff; }
 .dark .nav-contact:hover { background: #20203f;}
 .dark .container { background: none; }
-.dark .card,
+.dark .card-header {color: #000000ff;}
 .dark .project-card,
 .dark .contact-form {
   background: #292945;
@@ -340,6 +340,7 @@ footer {
 }
 
 html { scroll-behavior: smooth; }
+
 
 
 
